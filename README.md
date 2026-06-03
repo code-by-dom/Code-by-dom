@@ -1,5 +1,5 @@
 # 💫 About Me:
-I‘m new to the IT-Space but right now I‘m learning phyton and trying to understand AI. I want to help the community with Open-Source Projects.
+I’m new to the IT space, but I’m currently learning Python and working to understand AI. My goal is to contribute to the community through open-source projects.
 
 
 # 💻 Tech Stack:
@@ -9,8 +9,7 @@ I‘m new to the IT-Space but right now I‘m learning phyton and trying to unde
 ![](https://streak-stats.demolab.com/?user=Code-by-dom&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Code-by-dom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Code-by-dom&limit=5&theme=dark&combine_all_yearly_contributions=true)
